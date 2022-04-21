@@ -41,7 +41,31 @@ Other dependencies:
   
 ---
 
-## Usage
+## Evaluation Evidence
+
+### 1. Compiled KaseiCoin contract:
+
+![](Images/1_KaseiCoin_compiled.png)
+
+### 2. Compiled KaseiCoinCrowdsale contract:
+
+![](Images/2_KaseiCoinCrowdsale_compiled.png)
+
+### 3. Compiled KaseiCoinCrowdsaleDeployer contract:
+
+![](Images/3_KaseiCoinCrowdsaleDeployer_compiled.png)
+
+### 4. Deployment to Ganache with MetaMask:
+
+![](Images/4_deploy_remix.png)
+
+#### Contract Deployment Gas fee:
+
+![](Images/4_contract_deploy.png)
+
+#### Owner account balance after deployment:
+
+![](Images/5_after_deploy.png)
 
 ---
 
