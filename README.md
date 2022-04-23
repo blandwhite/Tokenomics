@@ -67,6 +67,10 @@ Other dependencies:
 
 ![](Images/5_after_deploy.png)
 
+### Demonstration of purchases of KAI by earthlings:
+
+![](Images/final_crowdsale.gif)
+
 ---
 
 ## Contributors
